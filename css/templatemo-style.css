@@ -66,9 +66,7 @@ html {
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
 }
-.thick p{
-	font-size: 30px;
-}
+
 
 a:focus {
     outline: none;
